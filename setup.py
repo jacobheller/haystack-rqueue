@@ -9,7 +9,7 @@ setup(
     author='Armando Pérez',
     author_email='gmandx@gmail.com',
     url='http://github.com/mandx/haystack-rqueue',
-    requires=[
+    install_requires=[
         'django-rq',
     ],
     packages=[
